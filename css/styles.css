@@ -10,4 +10,12 @@ p {
     font-size: medium;
     background-color: darkcyan;
     color: cornsilk;
+    float: left;
+    width: 33.33%;
+}
+
+div:after {
+    content: "";
+    display: table;
+    clear: both;
 }
