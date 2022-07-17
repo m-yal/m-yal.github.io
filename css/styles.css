@@ -1,0 +1,13 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color: aquamarine;
+    color: brown;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    background-color: darkcyan;
+    color: cornsilk;
+}
