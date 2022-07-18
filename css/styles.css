@@ -1,9 +1,22 @@
 * {
     font-family: 'Edu SA Beginner', cursive;
-    margin: auto;
+  background-color: azure;
 }
-
-h1 {
-    font-size: large;
+ h1 {
+  font-size: 200%;
+  padding: 1%;
 }
-
+p {
+  font-size: 125%; 
+  padding: 1%;
+  
+}
+.contacts {
+  opacity: 1;
+}
+img {
+  width: 15%;
+  height: 15%;
+  float: right;
+    
+}
