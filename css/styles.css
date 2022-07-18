@@ -1,32 +1,9 @@
-h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: large;
-    background-color: aquamarine;
-    color: brown;
-}
-
-p {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: medium;
-    background-color: darkcyan;
-    color: cornsilk;
-    float: left;
-    width: 33.33%;
-}
-
 * {
-    box-sizing: border-box;
+    font-family: 'Edu SA Beginner', cursive;
+    margin: auto;
 }
 
-/* Create three equal columns that floats next to each other */
-.column {
-    float: left;
-    width: 33.33%;
+h1 {
+    font-size: large;
 }
 
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
