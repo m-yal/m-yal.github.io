@@ -9,14 +9,12 @@
 p {
   font-size: 125%; 
   padding: 1%;
-  
 }
 .contacts {
   opacity: 1;
 }
 img {
-  width: 15%;
-  height: 15%;
+  width: 10%;
+  height: 10%;
   float: right;
-    
 }
